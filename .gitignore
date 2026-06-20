@@ -1,0 +1,13 @@
+node_modules/
+dist/
+vendor/yt-dlp.exe
+*.log
+vendor/*.txt
+
+# Código fuente privado (no publicar)
+/src/
+/assets/
+/make-icon.js
+/package.json
+/package-lock.json
+/Abrir OptiGrab.bat
