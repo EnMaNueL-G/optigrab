@@ -9,5 +9,5 @@ El **código fuente es privado**. Parte del ecosistema **OptiSuite** · https://
 
 ## Apoyar
 Si te resulta útil, puedes apoyar su desarrollo:
-- Binance Pay ID: `1140153333`
-- USDT (BSC · BEP-20): `0x0a9a0d8d816ede885d1d4a5c94369a72ef86b3c1`
+- Binance Pay ID: `1165745950`
+- USDT (BSC · BEP-20): `0xb6f6731a4ea87f8e1fd6f44f48b5bc4204571f08`
