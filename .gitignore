@@ -11,3 +11,6 @@ vendor/*.txt
 /package.json
 /package-lock.json
 /Abrir OptiGrab.bat
+/scripts/
+/tests/
+/_diag.js
